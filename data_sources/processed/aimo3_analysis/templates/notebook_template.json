@@ -1,0 +1,33 @@
+﻿{
+    "recommendations":  [
+                            "TODO: Recomendação 1",
+                            "TODO: Recomendação 2"
+                        ],
+    "notebook_id":  "TODO",
+    "results":  {
+                    "pass_at_1":  "TODO",
+                    "pass_at_3":  "TODO",
+                    "accuracy":  "TODO"
+                },
+    "scenarios":  {
+                      "worst":  "TODO",
+                      "ideal":  "TODO",
+                      "partial":  "TODO"
+                  },
+    "status":  "PENDING_REVIEW",
+    "summary":  {
+                    "what_is":  "TODO: O que é?",
+                    "why_chosen":  "TODO: Por que?",
+                    "why_important":  "TODO: Por que é importante?"
+                },
+    "metadata":  {
+                     "date":  "TODO",
+                     "title":  "TODO",
+                     "url":  "TODO",
+                     "fetch_date":  "TODO",
+                     "author":  "TODO"
+                 },
+    "parameters_extracted":  {
+
+                             }
+}

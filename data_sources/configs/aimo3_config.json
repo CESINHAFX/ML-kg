@@ -1,0 +1,75 @@
+﻿{
+    "regex_patterns":  {
+                           "accuracy":  "accuracy\\s*[:=]\\s*([0-9.]+)",
+                           "n_samples":  "n\\s*[:=]\\s*([0-9]+)",
+                           "max_tokens":  "max_tokens\\s*[:=]\\s*([0-9]+)",
+                           "temperature":  "temperature\\s*[:=]\\s*([0-9.]+)",
+                           "seed":  "seed\\s*[:=]\\s*([0-9]+)",
+                           "pass_at_k":  "pass@([0-9]+)\\s*[:|=]?\\s*([0-9.]+)"
+                       },
+    "notebooks":  [
+                      {
+                          "id":  "aimo3_masa_pipeline",
+                          "description":  "Pipeline completo, inferência em servidor, validação com reference.csv",
+                          "focus":  "pipeline_completo",
+                          "author":  "masa.nakashima",
+                          "title":  "AIMO3: Initial Pipeline \u0026 Inference Server v2",
+                          "url":  "https://www.kaggle.com/code/masanakashima/aimo3-initial-pipeline-inference-server-v2"
+                      },
+                      {
+                          "id":  "aimo3_frieder_submission",
+                          "description":  "Exemplo de notebook de submissão",
+                          "focus":  "submissao_formato",
+                          "author":  "friederrr",
+                          "title":  "AIMO 3 Submission Demo Notebook 2/2",
+                          "url":  "https://www.kaggle.com/code/friederrr/aimo-3-submission-demo-notebook-2-2"
+                      },
+                      {
+                          "id":  "aimo3_pranshu_ensemble",
+                          "description":  "Estratégias ensemble com chain-of-thought",
+                          "focus":  "ensemble_cot",
+                          "author":  "pranshubahadur",
+                          "title":  "AIMO3: DAPI-IS [vllm-SI] (top-3 aimo2 + PoT + CoT)",
+                          "url":  "https://www.kaggle.com/code/pranshubahadur/aimo3-dapi-is-vllm-si-top-3-aimo2-pot-cot"
+                      }
+                  ],
+    "timeouts":  {
+                     "request_timeout":  15,
+                     "delay_between_requests":  3
+                 },
+    "selectors":  {
+                      "author":  [
+                                     ".author a",
+                                     ".user-link",
+                                     "[data-testid=\u0027profile-link\u0027]"
+                                 ],
+                      "outputs":  [
+                                      ".output",
+                                      "[data-cell-type=\u0027output\u0027]",
+                                      ".cell-output"
+                                  ],
+                      "code_cells":  [
+                                         "pre code",
+                                         "[data-cell-type=\u0027code\u0027]",
+                                         ".cell-code"
+                                     ],
+                      "metadata":  [
+                                       ".version",
+                                       ".updated",
+                                       ".views",
+                                       ".votes",
+                                       ".metadata"
+                                   ],
+                      "markdown_cells":  [
+                                             ".markdown",
+                                             "[data-cell-type=\u0027markdown\u0027]",
+                                             ".cell-markdown"
+                                         ],
+                      "title":  [
+                                    "h1",
+                                    "[data-testid=\u0027notebook-title\u0027]",
+                                    ".sc-title"
+                                ],
+                      "json_ld":  "script[type=\u0027application/ld+json\u0027]"
+                  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "titulo": "AIMO Round 2 Solutions",
+    "url": "https://www.kaggle.com/code/example/aimo-round-2",
+    "autor": "Example Author",
+    "data_extracao": "2026-02-25T22:44:24.910889",
+    "fonte": "AIMO_Prize"
+  },
+  "contexto_5w1h": {
+    "o_que": "Soluções para competição AIMO",
+    "por_que": "Demonstração de pipeline de extração",
+    "quem": "Participantes da competição",
+    "qual": "Alta relevância para treinamento de IA",
+    "quanto": "3-5 horas de processamento",
+    "como": "Web scraping + análise de código"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "import numpy as np\nprint('Test')",
+      "output": "Test"
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "x = 42",
+      "output": ""
+    },
+    {
+      "numero_celula": 3,
+      "tipo_celula": "code",
+      "codigo": "print(x)",
+      "output": "42"
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 3,
+    "celulas_com_codigo": 3,
+    "celulas_com_output": 2
+  }
+}

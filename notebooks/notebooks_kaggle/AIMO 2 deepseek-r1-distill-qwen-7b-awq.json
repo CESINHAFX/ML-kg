@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titulo": "AIMO 2: deepseek-r1-distill-qwen-7b-awq",
+    "url": "https://www.kaggle.com/code/yekenot/aimo-2-deepseek-r1-distill-qwen-7b-awq",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T03:32:52.482257",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: AIMO 2: deepseek-r1-distill-qwen-7b-awq",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (AIMO)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 52,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "li",
+      "texto": "explore Home"
+    },
+    {
+      "tipo": "p",
+      "texto": "Home"
+    },
+    {
+      "tipo": "li",
+      "texto": "emoji_events Competitions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Competitions"
+    },
+    {
+      "tipo": "li",
+      "texto": "table_chart Datasets"
+    },
+    {
+      "tipo": "p",
+      "texto": "Datasets"
+    },
+    {
+      "tipo": "li",
+      "texto": "tenancy Models"
+    },
+    {
+      "tipo": "p",
+      "texto": "Models"
+    },
+    {
+      "tipo": "li",
+      "texto": "leaderboard Benchmarks"
+    },
+    {
+      "tipo": "p",
+      "texto": "Benchmarks"
+    },
+    {
+      "tipo": "li",
+      "texto": "smart_toy Game Arena"
+    },
+    {
+      "tipo": "p",
+      "texto": "Game Arena"
+    },
+    {
+      "tipo": "li",
+      "texto": "code Code"
+    },
+    {
+      "tipo": "p",
+      "texto": "Code"
+    },
+    {
+      "tipo": "li",
+      "texto": "comment Discussions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Discussions"
+    },
+    {
+      "tipo": "li",
+      "texto": "school Learn"
+    },
+    {
+      "tipo": "p",
+      "texto": "Learn"
+    },
+    {
+      "tipo": "li",
+      "texto": "expand_more More"
+    },
+    {
+      "tipo": "p",
+      "texto": "More"
+    },
+    {
+      "tipo": "p",
+      "texto": "View Active Events"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/medals/notebooks/goldl@1x.png",
+      "alt": "gold medal"
+    },
+    {
+      "tipo": "h1",
+      "texto": "AIMO 2: deepseek-r1-distill-qwen-7b-awq"
+    },
+    {
+      "tipo": "p",
+      "texto": "Copied from Tong Hui Kang ( +64 , -86 )"
+    },
+    {
+      "tipo": "h2",
+      "texto": "AIMO 2: deepseek-r1-distill-qwen-7b-awq"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Runtime"
+    },
+    {
+      "tipo": "p",
+      "texto": "23m 36s · GPU L4 x4"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Input"
+    },
+    {
+      "tipo": "image",
+      "src": "/competitions/86023/images/thumbnail",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "AI Mathematical Olympiad - Progress Prize 2"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-avatars/images/1680925-kg.jpg",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "deepseek-r1 · ...sperhansen · V1"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Tags"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Language"
+    },
+    {
+      "tipo": "p",
+      "texto": "Python"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-competitions/kaggle/86023/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1772136621&Signature=uWfNF4Ri5IJKS6h%2FDW1ccVXYE0eNVs0oLUufx0Zwl1wXEfqY4yZ4LW5o7rQHh7ALn%2FzBsIXtN2iHTeQdSyUzZsU%2FbJMyH14OdHO0N8336ydN7iQHPwT9eOoN03IKEBG7m9U6fyHgPQsogzsyWG3Se3Rzd85qCr6ZqKufwkAOk3DkxezK%2ByE%2Bd9de84S8gkLrg7DDrDcy4HgtpRQ0%2FLgXr8ZlDiKXtqYPhFb%2BMsXCBekrRL7p9zYZQcnrhrhW0pCYWcXMwdQIzRbJeLrR9f7MJjcNWk3Tak5ruRgrJFJKmI8eNX37Zs3iVjoXaCk4GYBfNH22ZvYY%2FtTkwFOVeIQr0Q%3D%3D",
+      "alt": "Profile picture for undefined"
+    },
+    {
+      "tipo": "p",
+      "texto": "AI Mathematical Olympiad - Progress Prize 2"
+    },
+    {
+      "tipo": "p",
+      "texto": "20"
+    },
+    {
+      "tipo": "p",
+      "texto": "20 V19"
+    },
+    {
+      "tipo": "h2",
+      "texto": "License"
+    },
+    {
+      "tipo": "p",
+      "texto": "This Notebook has been released under the Apache 2.0 open source license."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Continue exploring"
+    },
+    {
+      "tipo": "li",
+      "texto": "Input 2 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/input_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Output 5 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/output_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Logs 1415.6 second run - successful arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/logs_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Comments 16 comments arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/comments_light.svg",
+      "alt": ""
+    }
+  ]
+}

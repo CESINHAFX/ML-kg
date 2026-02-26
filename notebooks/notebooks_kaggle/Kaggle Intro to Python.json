@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "titulo": "Kaggle Intro to Python",
+    "url": "https://www.kaggle.com/code/example/intro-python",
+    "autor": "Kaggle Learn",
+    "data_extracao": "2026-02-25T22:44:24.910906",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Tutorial introducao a Python",
+    "por_que": "Educacional",
+    "quem": "Iniciantes em Python",
+    "qual": "Básica",
+    "quanto": "30 minutos",
+    "como": "Tutorial interativo"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "# Hello World\nprint('Hello')",
+      "output": "Hello"
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 1,
+    "celulas_com_codigo": 1,
+    "celulas_com_output": 1
+  }
+}

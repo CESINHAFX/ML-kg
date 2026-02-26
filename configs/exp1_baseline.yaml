@@ -1,0 +1,47 @@
+# Experiment 1: Baseline (Direct Prompt + Verification)
+# Expected: pass@1 30-55%, pass@3 45-70%
+
+experiment_name: "exp1_baseline"
+description: "Direct prompt + heuristic verification, no ensemble"
+
+# Data
+data:
+  problems_jsonl: "data/problems.jsonl"
+  include_test: true  # Include test problems in evaluation
+
+# Model / LLM configuration
+model:
+  mode: "dryrun"  # dryrun (mock) or run (real vLLM)
+  temperature: 0.0
+  max_tokens: 256
+  timeout_per_call: 40
+
+# Sampling
+sampling:
+  prompt_types: ["direct"]
+  num_samples: 3  # For pass@3 measurement
+  seed: 42
+
+# Verification
+verification:
+  enable_cas: false
+  cas_on_heuristic_failure: false
+
+# Expected outcomes (for validation)
+expected_outcomes:
+  pass_at_1_min: 0.30
+  pass_at_1_max: 0.55
+  pass_at_3_min: 0.45
+  pass_at_3_max: 0.70
+  format_fail_rate_max: 0.30
+
+# Compute budget
+compute:
+  h100_hours_estimate: 2
+  timeout_total_s: 7200  # 2 hours
+
+# Output
+output:
+  results_dir: "results"
+  logs_dir: "logs"
+  reports_dir: "reports"

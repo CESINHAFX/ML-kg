@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "titulo": "AIMO3: Initial Pipeline & Inference Server v2",
+    "url": "https://www.kaggle.com/code/masanakashima/aimo3-initial-pipeline-inference-server-v2",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T01:37:33.564383",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: AIMO3: Initial Pipeline & Inference Server v2",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (AIMO)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A"
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A"
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0
+  }
+}

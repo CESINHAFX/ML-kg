@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "titulo": "N/A",
+    "url": "https://www.kaggle.com/code/tgmath/aimo3-olympiad-ai",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T02:54:40.852593",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (AIMO)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [],
+  "resumo_estatisticas": {
+    "total_celulas": 0,
+    "celulas_com_codigo": 0,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 3,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/error/server-error-illo_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "h6",
+      "texto": "We can't find that page."
+    },
+    {
+      "tipo": "p",
+      "texto": "You can search Kaggle above or visit our homepage ."
+    }
+  ]
+}

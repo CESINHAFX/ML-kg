@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "titulo": "Bloom-1b7 GSM8K",
+    "url": "https://www.kaggle.com/code/manwithaflower/bloom-1b7-gsm8k",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T03:38:00.990930",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: Bloom-1b7 GSM8K",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (GSM8K)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 44,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "li",
+      "texto": "explore Home"
+    },
+    {
+      "tipo": "p",
+      "texto": "Home"
+    },
+    {
+      "tipo": "li",
+      "texto": "emoji_events Competitions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Competitions"
+    },
+    {
+      "tipo": "li",
+      "texto": "table_chart Datasets"
+    },
+    {
+      "tipo": "p",
+      "texto": "Datasets"
+    },
+    {
+      "tipo": "li",
+      "texto": "tenancy Models"
+    },
+    {
+      "tipo": "p",
+      "texto": "Models"
+    },
+    {
+      "tipo": "li",
+      "texto": "leaderboard Benchmarks"
+    },
+    {
+      "tipo": "p",
+      "texto": "Benchmarks"
+    },
+    {
+      "tipo": "li",
+      "texto": "smart_toy Game Arena"
+    },
+    {
+      "tipo": "p",
+      "texto": "Game Arena"
+    },
+    {
+      "tipo": "li",
+      "texto": "code Code"
+    },
+    {
+      "tipo": "p",
+      "texto": "Code"
+    },
+    {
+      "tipo": "li",
+      "texto": "comment Discussions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Discussions"
+    },
+    {
+      "tipo": "li",
+      "texto": "school Learn"
+    },
+    {
+      "tipo": "p",
+      "texto": "Learn"
+    },
+    {
+      "tipo": "li",
+      "texto": "expand_more More"
+    },
+    {
+      "tipo": "p",
+      "texto": "More"
+    },
+    {
+      "tipo": "p",
+      "texto": "View Active Events"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "h1",
+      "texto": "Bloom-1b7 GSM8K"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Bloom-1b7 GSM8K"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Runtime"
+    },
+    {
+      "tipo": "p",
+      "texto": "17s"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Input"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-97.png-2590337/dataset-thumbnail.png",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "GSM8K Dataset"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Language"
+    },
+    {
+      "tipo": "p",
+      "texto": "Python"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Table of Contents"
+    },
+    {
+      "tipo": "h2",
+      "texto": "License"
+    },
+    {
+      "tipo": "p",
+      "texto": "This Notebook has been released under the Apache 2.0 open source license."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Continue exploring"
+    },
+    {
+      "tipo": "li",
+      "texto": "Input 1 file arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/input_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Output 1 file arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/output_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Logs 16.9 second run - successful arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/logs_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Comments 0 comments arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/comments_light.svg",
+      "alt": ""
+    }
+  ]
+}

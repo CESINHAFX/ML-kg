@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "titulo": "Fine-tune LLAMA3 8B for GSM8K",
+    "url": "https://www.kaggle.com/code/yashwanthnadella/fine-tune-llama3-8b-for-gsm8k",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T03:37:17.581599",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: Fine-tune LLAMA3 8B for GSM8K",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (GSM8K)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 49,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "li",
+      "texto": "explore Home"
+    },
+    {
+      "tipo": "p",
+      "texto": "Home"
+    },
+    {
+      "tipo": "li",
+      "texto": "emoji_events Competitions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Competitions"
+    },
+    {
+      "tipo": "li",
+      "texto": "table_chart Datasets"
+    },
+    {
+      "tipo": "p",
+      "texto": "Datasets"
+    },
+    {
+      "tipo": "li",
+      "texto": "tenancy Models"
+    },
+    {
+      "tipo": "p",
+      "texto": "Models"
+    },
+    {
+      "tipo": "li",
+      "texto": "leaderboard Benchmarks"
+    },
+    {
+      "tipo": "p",
+      "texto": "Benchmarks"
+    },
+    {
+      "tipo": "li",
+      "texto": "smart_toy Game Arena"
+    },
+    {
+      "tipo": "p",
+      "texto": "Game Arena"
+    },
+    {
+      "tipo": "li",
+      "texto": "code Code"
+    },
+    {
+      "tipo": "p",
+      "texto": "Code"
+    },
+    {
+      "tipo": "li",
+      "texto": "comment Discussions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Discussions"
+    },
+    {
+      "tipo": "li",
+      "texto": "school Learn"
+    },
+    {
+      "tipo": "p",
+      "texto": "Learn"
+    },
+    {
+      "tipo": "li",
+      "texto": "expand_more More"
+    },
+    {
+      "tipo": "p",
+      "texto": "More"
+    },
+    {
+      "tipo": "p",
+      "texto": "View Active Events"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "h1",
+      "texto": "Fine-tune LLAMA3 8B for GSM8K"
+    },
+    {
+      "tipo": "p",
+      "texto": "Copied from private notebook ( +210 , -147 )"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Fine-tune LLAMA3 8B for GSM8K"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Runtime"
+    },
+    {
+      "tipo": "p",
+      "texto": "11h 42m 7s · GPU P100"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Input"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-datasets-images/4054119/7045423/a66bd20381393b7d81a8d11961794274/dataset-thumbnail.png?t=2023-11-24-23-27-32",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "GSM8K - Grade School Math 8K Q&A"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-organizations/855/thumbnail.png",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "Gemma · 7b-it · V1"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-organizations/3837/thumbnail-2.png",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "Llama 3 · 8b-hf · V1"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Tags"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Language"
+    },
+    {
+      "tipo": "p",
+      "texto": "Python"
+    },
+    {
+      "tipo": "h2",
+      "texto": "License"
+    },
+    {
+      "tipo": "p",
+      "texto": "This Notebook has been released under the Apache 2.0 open source license."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Continue exploring"
+    },
+    {
+      "tipo": "li",
+      "texto": "Input 3 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/input_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Output 0 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/output_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Logs 42126.9 second run - successful arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/logs_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Comments 1 comment arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/comments_light.svg",
+      "alt": ""
+    }
+  ]
+}

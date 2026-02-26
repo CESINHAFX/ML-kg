@@ -1,0 +1,40 @@
+{
+    "notebook_id":  "aimo3_masa_pipeline",
+    "prompts_extracted":  [
+
+                          ],
+    "code_cells":  [
+                       {
+                           "code":  "temperature = 0.5",
+                           "cell_id":  "code_1",
+                           "order":  1
+                       },
+                       {
+                           "code":  "max_tokens = 256",
+                           "cell_id":  "code_2",
+                           "order":  2
+                       }
+                   ],
+    "metadata":  {
+                     "author":  "masa.nakashima",
+                     "fetch_date":  "2026-02-25T10:30:00Z",
+                     "fetch_method":  "requests_beautifulsoup",
+                     "date":  "2025-01-15",
+                     "title":  "AIMO3: Initial Pipeline \u0026 Inference Server v2",
+                     "url":  "https://www.kaggle.com/code/masanakashima/aimo3-initial-pipeline-inference-server-v2"
+                 },
+    "markdown_cells":  [
+
+                       ],
+    "parameters_extracted":  {
+                                 "max_tokens":  256,
+                                 "n_samples":  5,
+                                 "temperature":  0.5
+                             },
+    "stats":  {
+                  "parameters_count":  3,
+                  "code_cells_count":  2,
+                  "markdown_cells_count":  0,
+                  "prompts_count":  0
+              }
+}

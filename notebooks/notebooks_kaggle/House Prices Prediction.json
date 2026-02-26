@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "titulo": "House Prices Prediction",
+    "url": "https://www.kaggle.com/code/mirzayasirabdullah07/house-prices-prediction",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T02:10:18.135329",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: House Prices Prediction",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância a classificar",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 48,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "li",
+      "texto": "explore Home"
+    },
+    {
+      "tipo": "p",
+      "texto": "Home"
+    },
+    {
+      "tipo": "li",
+      "texto": "emoji_events Competitions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Competitions"
+    },
+    {
+      "tipo": "li",
+      "texto": "table_chart Datasets"
+    },
+    {
+      "tipo": "p",
+      "texto": "Datasets"
+    },
+    {
+      "tipo": "li",
+      "texto": "tenancy Models"
+    },
+    {
+      "tipo": "p",
+      "texto": "Models"
+    },
+    {
+      "tipo": "li",
+      "texto": "leaderboard Benchmarks"
+    },
+    {
+      "tipo": "p",
+      "texto": "Benchmarks"
+    },
+    {
+      "tipo": "li",
+      "texto": "smart_toy Game Arena"
+    },
+    {
+      "tipo": "p",
+      "texto": "Game Arena"
+    },
+    {
+      "tipo": "li",
+      "texto": "code Code"
+    },
+    {
+      "tipo": "p",
+      "texto": "Code"
+    },
+    {
+      "tipo": "li",
+      "texto": "comment Discussions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Discussions"
+    },
+    {
+      "tipo": "li",
+      "texto": "school Learn"
+    },
+    {
+      "tipo": "p",
+      "texto": "Learn"
+    },
+    {
+      "tipo": "li",
+      "texto": "expand_more More"
+    },
+    {
+      "tipo": "p",
+      "texto": "More"
+    },
+    {
+      "tipo": "p",
+      "texto": "View Active Events"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/medals/notebooks/silverl@1x.png",
+      "alt": "silver medal"
+    },
+    {
+      "tipo": "h1",
+      "texto": "House Prices Prediction"
+    },
+    {
+      "tipo": "h2",
+      "texto": "House Prices Prediction"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Runtime"
+    },
+    {
+      "tipo": "p",
+      "texto": "9m 53s"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Input"
+    },
+    {
+      "tipo": "image",
+      "src": "/competitions/5407/images/thumbnail",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "House Prices - Advanced Regression Techniques"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Language"
+    },
+    {
+      "tipo": "p",
+      "texto": "Python"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-competitions/kaggle/5407/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1772134351&Signature=ueakTyfPLq6Fnvx9yHau5WbiaBp8Qqq9LdY0hQCkj31mIjybqfC%2F8u%2B5ATJjpO6gHx9WC%2BmgeJycWTH8NCWljv41ElRHmpx60wfqkHrDb8pabu20j9gxgRujmLR9m%2FZfMJArbkfUoGpEwfb4K2I7SrVrF3kQTNETew3Ai44XFQ2vip6LSzblCnqhWcLM2TNgS%2Bg2AS1nY4At%2Fs1cjc2nhisuDhcp6f7E%2BMWKsze8WwBCLipvjRRcmL3HCGfZxsOtyVb2D3PwyIa8Q%2FztqlXHlUDxV4okIs0pu%2BwWkh1vYt%2FUztYbio2yAiu9I%2FTCSzm15GGbslx5tm1ldHvdm0mVyw%3D%3D",
+      "alt": "Profile picture for undefined"
+    },
+    {
+      "tipo": "p",
+      "texto": "House Prices - Advanced Regression Techniques"
+    },
+    {
+      "tipo": "p",
+      "texto": "0.12119"
+    },
+    {
+      "tipo": "p",
+      "texto": "0.12119 V3"
+    },
+    {
+      "tipo": "h2",
+      "texto": "License"
+    },
+    {
+      "tipo": "p",
+      "texto": "This Notebook has been released under the Apache 2.0 open source license."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Continue exploring"
+    },
+    {
+      "tipo": "li",
+      "texto": "Input 1 file arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/input_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Output 5 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/output_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Logs 593.2 second run - successful arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/logs_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Comments 1 comment arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/comments_light.svg",
+      "alt": ""
+    }
+  ]
+}

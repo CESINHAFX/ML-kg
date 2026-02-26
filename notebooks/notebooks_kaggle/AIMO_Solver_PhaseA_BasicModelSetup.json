@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "titulo": "AIMO_Solver_PhaseA_BasicModelSetup",
+    "url": "https://www.kaggle.com/code/shubham2web/aimo-solver-phasea-basicmodelsetup",
+    "autor": "N/A",
+    "data_extracao": "2026-02-26T03:23:50.444722",
+    "fonte": "General_Notebooks"
+  },
+  "contexto_5w1h": {
+    "o_que": "Notebook Kaggle: AIMO_Solver_PhaseA_BasicModelSetup",
+    "por_que": "Extração para análise de notebooks do Kaggle",
+    "quem": "Comunidade Kaggle",
+    "qual": "Relevância alta (AIMO)",
+    "quanto": "N/A",
+    "como": "Selenium + BeautifulSoup"
+  },
+  "celulas": [
+    {
+      "numero_celula": 1,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    },
+    {
+      "numero_celula": 2,
+      "tipo_celula": "code",
+      "codigo": "search​",
+      "output": "N/A",
+      "output_renderizado": []
+    }
+  ],
+  "resumo_estatisticas": {
+    "total_celulas": 2,
+    "celulas_com_codigo": 2,
+    "celulas_com_output": 0,
+    "itens_conteudo_notebook": 46,
+    "outputs_renderizados": 0
+  },
+  "conteudo_aba_notebook": [
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "li",
+      "texto": "explore Home"
+    },
+    {
+      "tipo": "p",
+      "texto": "Home"
+    },
+    {
+      "tipo": "li",
+      "texto": "emoji_events Competitions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Competitions"
+    },
+    {
+      "tipo": "li",
+      "texto": "table_chart Datasets"
+    },
+    {
+      "tipo": "p",
+      "texto": "Datasets"
+    },
+    {
+      "tipo": "li",
+      "texto": "tenancy Models"
+    },
+    {
+      "tipo": "p",
+      "texto": "Models"
+    },
+    {
+      "tipo": "li",
+      "texto": "leaderboard Benchmarks"
+    },
+    {
+      "tipo": "p",
+      "texto": "Benchmarks"
+    },
+    {
+      "tipo": "li",
+      "texto": "smart_toy Game Arena"
+    },
+    {
+      "tipo": "p",
+      "texto": "Game Arena"
+    },
+    {
+      "tipo": "li",
+      "texto": "code Code"
+    },
+    {
+      "tipo": "p",
+      "texto": "Code"
+    },
+    {
+      "tipo": "li",
+      "texto": "comment Discussions"
+    },
+    {
+      "tipo": "p",
+      "texto": "Discussions"
+    },
+    {
+      "tipo": "li",
+      "texto": "school Learn"
+    },
+    {
+      "tipo": "p",
+      "texto": "Learn"
+    },
+    {
+      "tipo": "li",
+      "texto": "expand_more More"
+    },
+    {
+      "tipo": "p",
+      "texto": "More"
+    },
+    {
+      "tipo": "p",
+      "texto": "View Active Events"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/site-logo.svg",
+      "alt": "Kaggle"
+    },
+    {
+      "tipo": "h1",
+      "texto": "AIMO_Solver_PhaseA_BasicModelSetup"
+    },
+    {
+      "tipo": "h2",
+      "texto": "AIMO_Solver_PhaseA_BasicModelSetup"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Runtime"
+    },
+    {
+      "tipo": "p",
+      "texto": "36s"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Input"
+    },
+    {
+      "tipo": "image",
+      "src": "/competitions/118448/images/thumbnail",
+      "alt": ""
+    },
+    {
+      "tipo": "p",
+      "texto": "AI Mathematical Olympiad - Progress Prize 3"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Language"
+    },
+    {
+      "tipo": "p",
+      "texto": "Python"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Table of Contents"
+    },
+    {
+      "tipo": "image",
+      "src": "https://storage.googleapis.com/kaggle-competitions/kaggle/118448/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1772134329&Signature=TSKOTIYq3vtBRZXfl949EvCQxVPbFvFFkKshN4a95zOmfuDUj3N87vGaJKrKlDXg6IQPkJiVbLfeWTXOu1UlMXuxmEnXGTcoiN8crsJsKKkmiyT45873sqj5uoyokVZkdotgVhXK9slpxNLtt4LvuzrkSZICsjxmYze6Ec1QN4JnXnNxc2qkxvR867BjWVZ%2BSLvNuvzZiN2kNmwUIbMgVeiCDEv8jG9E7xdQRtS%2Blc1tSw4PZPBN1qFwgb7jr%2BI%2Fbx7TtiLDEo8rn6n3NqEPnGXGcrTrM8o8OBKYb89io%2FZztmvE73qDe5kAnna1%2BDlPrwvSfpsnLL7nVr6z5hm22Q%3D%3D",
+      "alt": "Profile picture for undefined"
+    },
+    {
+      "tipo": "p",
+      "texto": "AI Mathematical Olympiad - Progress Prize 3"
+    },
+    {
+      "tipo": "h2",
+      "texto": "License"
+    },
+    {
+      "tipo": "p",
+      "texto": "This Notebook has been released under the Apache 2.0 open source license."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Continue exploring"
+    },
+    {
+      "tipo": "li",
+      "texto": "Input 1 file arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/input_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Output 2 files arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/output_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Logs 36.2 second run - successful arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/logs_light.svg",
+      "alt": ""
+    },
+    {
+      "tipo": "li",
+      "texto": "Comments 0 comments arrow_right_alt"
+    },
+    {
+      "tipo": "image",
+      "src": "/static/images/kernel/viewer/comments_light.svg",
+      "alt": ""
+    }
+  ]
+}
